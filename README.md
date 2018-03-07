@@ -20,7 +20,7 @@ Plotly is used to graph the data. If this code is run every day around midnight 
 
 ## Usage
 
-Adjust your variables `csv_folder` `page` and `csv_file` first.
+Adjust your variables `csv_folder`, `page` and `csv_file` first.
 Once you have your dependencies installed via pip, run the Python script in terminal via
 
 ```
